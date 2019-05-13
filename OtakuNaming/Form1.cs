@@ -15,5 +15,10 @@ namespace OtakuNaming
         {
             InitializeComponent();
         }
+
+        private void radioButton38_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
